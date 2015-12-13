@@ -1,0 +1,6 @@
+node_modules
+deploy.sh
+smarthome.iml
+.idea
+local.json
+
