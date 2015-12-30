@@ -1,0 +1,7 @@
+28-0000071ed638		attic
+28-0000072af42e		living room
+28-0000072c2c9f		bedroom
+28-0000072b0c73         brown room downstairs
+28-0000072d1649         bedroom downstairs
+28-0000072c2971         black room downstairs
+

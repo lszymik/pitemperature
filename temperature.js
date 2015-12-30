@@ -18,7 +18,7 @@ function readSensors(){
     ids.forEach(function (id) {
           setInterval(function () {
             readTemp(id);
-          }, 10000);
+          }, 60000);
         }
     );
   });
