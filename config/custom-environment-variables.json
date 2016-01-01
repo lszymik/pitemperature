@@ -1,7 +1,5 @@
 {
-  "oauth": {
-    "client_id": "CLIENT_ID",
-    "client_secret": "CLIENT_SECRET",
-    "yaas_client": "YAAS_CLIENT"
-  }
+  "TOKEN": "setByEnv",
+  "SMARTHOME_URL": "setByEnv",
+  "HOME_ID": "setByEnv"
 }
