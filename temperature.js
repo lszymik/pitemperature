@@ -17,7 +17,7 @@ function readSensors() {
 		ids.forEach(function (id) {
 				setInterval(function () {
 					readTemp(id);
-				}, 60000);
+				}, 10000);
 			}
 		);
 	});
@@ -30,7 +30,6 @@ function readTemp(id) {
 		}
 		console.log('Sensor %s temperature %s', id, value);
 		sendTemperature(id, value);
-		sensors[id] = value;
 	});
 }
 
