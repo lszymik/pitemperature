@@ -1,6 +1,7 @@
 var ds18b20 = require('ds18b20');
 var ip = require("ip");
 var config = require('config');
+var request = require('request');
 
 
 var token = config.get('TOKEN')
@@ -29,6 +30,7 @@ function readTemp(id) {
 			return console.error(err);
 		}
 		console.log('Sensor %s temperature %s', id, value);
+		sendTemperature(id, value);
 	});
 }
 
