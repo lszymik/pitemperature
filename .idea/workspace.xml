@@ -27,8 +27,8 @@
       <file leaf-file-name="temperature.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/temperature.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1713881">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.5293315">
+              <caret line="34" column="11" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -349,12 +349,12 @@
       <option name="number" value="Default" />
       <updated>1449955278604</updated>
       <workItem from="1449955279944" duration="2726000" />
-      <workItem from="1451667365786" duration="3866000" />
+      <workItem from="1451667365786" duration="5667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6592000" />
+    <option name="totallyTimeSpent" value="8393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="23" width="1398" height="877" extended-state="6" />
@@ -390,12 +390,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/temperature.js</url>
-          <line>16</line>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
@@ -481,8 +475,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/temperature.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1713881">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.5293315">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
