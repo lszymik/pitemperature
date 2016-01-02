@@ -29,7 +29,6 @@ function readTemp(id) {
 			return console.error(err);
 		}
 		console.log('Sensor %s temperature %s', id, value);
-		sendTemperature(id, value);
 	});
 }
 
@@ -50,6 +49,8 @@ function sendTemperature(sensorId, temperature) {
 }
 
 console.log(ip.address());
+
+sendTemperature('unknown', 99);
 
 readSensors();
 

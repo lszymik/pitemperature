@@ -27,8 +27,8 @@
       <file leaf-file-name="temperature.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/temperature.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5293315">
-              <caret line="34" column="11" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7776262">
+              <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -349,12 +349,12 @@
       <option name="number" value="Default" />
       <updated>1449955278604</updated>
       <workItem from="1449955279944" duration="2726000" />
-      <workItem from="1451667365786" duration="5667000" />
+      <workItem from="1451667365786" duration="6531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8393000" />
+    <option name="totallyTimeSpent" value="9257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="23" width="1398" height="877" extended-state="6" />
@@ -475,8 +475,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/temperature.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5293315">
-          <caret line="34" column="11" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7776262">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
           <folding />
         </state>
       </provider>
