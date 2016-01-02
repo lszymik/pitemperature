@@ -39,7 +39,7 @@ function sendTemperature(sensorId, temperature) {
 	console.log(requestUrl);
 
 	request.post(requestUrl,
-		{auth: {basic: token}, json: {value: temperature}}, function (err, resp) {
+		{auth: {username: 'admin', password: token}, json: {value: temperature}}, function (err, resp) {
 
 			if (err) {
 			return console.error(err);
