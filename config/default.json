@@ -1,5 +1,7 @@
 {
-  "TOKEN": "setByEnv",
-  "SMARTHOME_URL": "setByEnv",
-  "HOME_ID": "setByEnv"
+  "smarthome" : {
+    "token": "setByEnv",
+    "url": "setByEnv",
+    "homeId": "setByEnv"
+  }
 }

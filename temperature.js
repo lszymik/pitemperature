@@ -4,9 +4,9 @@ var config = require('config');
 var request = require('request');
 
 
-var token = config.get('TOKEN')
-var smarthome_url = config.get('SMARTHOME_URL')
-var homeId = config.get('HOME_ID')
+var token = config.get('smarthome.token')
+var smarthome_url = config.get('smarthome.url')
+var homeId = config.get('smarthome.homeId')
 
 
 function readSensors() {
@@ -51,8 +51,6 @@ function sendTemperature(sensorId, temperature) {
 }
 
 console.log(ip.address());
-
-sendTemperature('unknown', 99);
 
 readSensors();
 
