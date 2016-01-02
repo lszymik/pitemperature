@@ -35,7 +35,7 @@ function readTemp(id) {
 }
 
 function sendTemperature(sensorId, temperature) {
-	var requestUrl = smarthome_url + '/homes' + homeId + '/temperature/sensors' + sensorId;
+	var requestUrl = smarthome_url + '/homes/' + homeId + '/temperature/sensors/' + sensorId;
 	console.log(requestUrl);
 
 	request.post(requestUrl,
