@@ -1,6 +1,7 @@
 node_modules
 deploy.sh
 smarthome.iml
-.idea
+.idea/
+/idea
 local.json
 node_modules

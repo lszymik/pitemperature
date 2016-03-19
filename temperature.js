@@ -30,7 +30,7 @@ function readTemp(id) {
 			return console.error(err);
 		}
 		console.log('Sensor %s temperature %s', id, value);
-		sendTemperature(id, value);
+		// sendTemperature(id, value);
 	});
 }
 
